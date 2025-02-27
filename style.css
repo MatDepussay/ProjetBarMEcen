@@ -1,0 +1,7 @@
+body { 
+    background: url(Images-20250227/background.jpg) no-repeat
+    fixed;
+    background-size: cover;
+    color: #fff;
+    margin: 0, auto;
+}
